@@ -1,0 +1,12 @@
+C:\Users\Ahmed Kader\TasneemDidatTuition\publish\TasneemDidatTuition.exe
+C:\Users\Ahmed Kader\TasneemDidatTuition\publish\publish\web.config
+C:\Users\Ahmed Kader\TasneemDidatTuition\publish\appsettings.Development.json
+C:\Users\Ahmed Kader\TasneemDidatTuition\publish\appsettings.json
+C:\Users\Ahmed Kader\TasneemDidatTuition\publish\publish\appsettings.Development.json
+C:\Users\Ahmed Kader\TasneemDidatTuition\publish\publish\appsettings.json
+C:\Users\Ahmed Kader\TasneemDidatTuition\publish\publish\TasneemDidatTuition.deps.json
+C:\Users\Ahmed Kader\TasneemDidatTuition\publish\publish\TasneemDidatTuition.runtimeconfig.json
+C:\Users\Ahmed Kader\TasneemDidatTuition\publish\TasneemDidatTuition.dll
+C:\Users\Ahmed Kader\TasneemDidatTuition\publish\TasneemDidatTuition.deps.json
+C:\Users\Ahmed Kader\TasneemDidatTuition\publish\TasneemDidatTuition.runtimeconfig.json
+C:\Users\Ahmed Kader\TasneemDidatTuition\publish\TasneemDidatTuition.pdb
