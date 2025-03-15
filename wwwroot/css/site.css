@@ -203,6 +203,25 @@ body {
   100% {
     transform: scale(1);
   }
+}
 
+/* About Page Specific Styles */
+.about-page .container {
+  color: #ffffff;
+  /* White text for the entire container */
+}
 
+.about-page .lead {
+  color: #ffffff;
+  /* White text for lead paragraphs */
+}
+
+.about-page p {
+  color: #ffffff;
+  /* White text for all paragraphs */
+}
+
+.about-page strong {
+  color: #ffd700;
+  /* Gold color for strong text (optional) */
 }
