@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TasneemDidatTuition")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abf23ddb504b2435422caef2571826e52e1b8579")]
 [assembly: System.Reflection.AssemblyProductAttribute("TasneemDidatTuition")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TasneemDidatTuition")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
